@@ -21,4 +21,4 @@
     streamlit run app.py
 
 ## Dashboard
-https://....streamlit.app
+(https://tarea2flaviaromero.streamlit.app/)
