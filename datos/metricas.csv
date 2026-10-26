@@ -1,0 +1,6 @@
+﻿modalidad,modelo,metrica,valor,latencia_seg,rtf
+audio,MMS-1b-all,WER,0.148,169.92,1.455
+audio,faster-whisper small,WER,0.054,47.72,0.406
+documento,EasyOCR,CER,0.536,20.28,
+documento,PaddleOCR PP-OCRv5 mobile,CER,0.558,,
+llm,gemini-3.5-flash-lite,acuerdo,0.8,,
